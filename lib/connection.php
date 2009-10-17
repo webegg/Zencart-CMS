@@ -16,7 +16,7 @@
 	//	The Main Class
 	
 	class db {
-	
+
 		// ==================================================================
 		//	DB Constructor - connects to the server and selects a database
 		
